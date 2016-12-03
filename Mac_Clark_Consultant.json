@@ -1,0 +1,190 @@
+{
+  "basics": {
+    "name": "Mac Clark",
+    "label": "Consultant",
+    "picture": "",
+    "email": "mac@macclark.com",
+    "phone": "(503) 701-0143",
+    "website": "http://macclark.com",
+    "summary": "Mac has a background in developing Finance and Internet Banking applications for some of the largest financial institutions in the world. As a member of a startup with less than ten people, he helped grow the business to one that employees thousands of people today. He led teams and trained in .NET, participating in Boot Camps, in a special relationship with Microsoft as their only “trusted” vendor. He was quickly promoted to Senior Consultant travelling to Asia, Africa and Europe. While overseas he trained, sold products and services to international businesses as the company grew. He was a key part during the growth stage of the company successfully going public. It was subsequently acquired becoming the largest vendor of financial applications.  Today Mac architects, develops and creates in many computer languages. He currently is programming a project using a MEAN stack living on Amazon’s Elastic Cloud. Working alone he also successfully completed the creation of a video game, Trophy Trout, using all aspects of what many consider the best game engine, Unreal. He is a qualified Facebook developer and contributes to an Unreal open source project, UE4Duino. He also has a keen interest in robotics with several active Arduino projects, some using quaternion equations. ",
+    "location": {
+      "address": "1045 Crescent Dr Nw",
+      "postalCode": "97304",
+      "city": "Salem",
+      "countryCode": "US",
+      "region": "Oregon"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "macclark",
+        "url": "https://www.linkedin.com/in/macclark"
+      },
+      {
+        "network": "Facebook",
+        "username": "jmc.iv",
+        "url": "https://www.facebook.com/jmc.iv"
+      },
+      {
+        "network": "YouTube",
+        "username": "TheMacClark",
+        "url": "https://www.youtube.com/numicus"
+      },
+      {
+        "network": "Github",
+        "username": "macclark",
+        "url": "https://github.com/macclark"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Numicus",
+      "position": "CEO/President",
+      "website": "http://Numicus.com",
+      "startDate": "2009-01-01",
+      "endDate": "2016-02-29",
+      "summary": "Numicus makes the best fishing video games on the planet!",
+      "highlights": [
+        "Developed a video game using SCRUM philosophies and OO programming methods.",
+        "Built Numicus.com using CSS, PHP, HTML5 and WordPress for a responsive mobile and web presence.",
+        "Utilized reiterative coding methodologies in multiple programming languages to deliver required functionality for game.",
+        "Created, modeled, rigged, skinned and animated all game content programmatically."
+      ]
+    },
+    {
+      "company": "The Fly Fisher's Place",
+      "position": "Fishing Guide",
+      "website": "http://flyfishersplace.com/",
+      "startDate": "2012-05-01",
+      "endDate": "2015-08-01",
+      "summary": "",
+      "highlights": [
+        "Instructed clients in the art of fly fishing during the summer."
+      ]
+    },
+    {
+      "company": "Independent Consultant",
+      "position": "",
+      "website": "",
+      "startDate": "2001-12-15",
+      "endDate": "2009-01-15",
+      "summary": "",
+      "highlights": [
+        "Programmed a user-authenticated portal in the creation of an enterprise wide reporting tool set for Developnet.com.",
+        "Delivered a business-to-business and business-to-consumer transaction based systems for gift cards at Hollywoodvideo.com."
+      ]
+    },
+    {
+      "company": "Corillian",
+      "position": "Senior Consultant",
+      "website": "https://www.fiserv.com/",
+      "startDate": "1998-02-15",
+      "endDate": "2001-12-15",
+      "summary": "",
+      "highlights": [
+        "Designed and architected web applications using the latest Microsoft .NET technology as Microsoft’s only “trusted” vendor while .NET was in Alpha and Beta.",
+        "Extended Corillian’s product offering through the introduction of Corillian’s Small Business product, One Source Register product, Single Sign-On offering, and Portal offering. ",
+        "Created and programmed object orientated web applications in development of online banking solutions that included TCP/IP connectivity to mainframe host systems, Visual Basic scripting, SQL Database connectivity, JavaScript functions and dynamic HTML page creation. "
+      ]
+    },
+    {
+      "company": "Nike",
+      "position": "Desktop Support",
+      "website": "http://Nike.com",
+      "startDate": "1996-05-15",
+      "endDate": "1998-02-15",
+      "summary": "",
+      "highlights": [
+        "Performed computer related trouble shooting for desktop users on the PC and Mac platforms."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Oregon",
+      "area": "Finance and Entrepreneurship",
+      "studyType": "Business Administration",
+      "startDate": "1990-09-01",
+      "endDate": "1994-07-01",
+      "gpa": "3.0",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Application Development",
+      "level": "Full Stack",
+      "keywords": [
+        "MEAN",
+        ".NET",
+        "AWS",
+        "Azure",
+        "Git"
+      ]
+    },
+    {
+      "name": "Video Game Development",
+      "level": "Designer",
+      "keywords": [
+        "Unreal",
+        "Blender",
+        "Adobe CC",
+        ""
+      ]
+    },
+    {
+      "name": "Audio and Video Production",
+      "level": "Producer",
+      "keywords": [
+        "Pro Tools",
+        "Adobe Premiere",
+        "Sony Vegas"
+      ]
+    },
+    {
+      "name": "3D Modeling",
+      "level": "Artist",
+      "keywords": [
+        "Create",
+        "Skin",
+        "Rig",
+        "Animate"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Basic, JavaScript, C++, C#, Java, JSON, XML",
+      "fluency": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": "Outdoor Activities",
+      "keywords": [
+        "Fly Fishing",
+        "Photography",
+        "Snowboarding",
+        "Rafting"
+      ]
+    },
+    {
+      "name": "Indoor Activities",
+      "keywords": [
+        "Video Games",
+        "Playing Guitar",
+        "Editing Videos"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Darrell Johnsrud - Senior Solution Architect - Bank of America",
+      "reference": "I worked with Mac for several years at Corillian Corp, when we were in our high growth phase. As the Chief Architect, I saw that he made a great contribution to our internet banking user interface design. Mac had a real passion for product development and understanding the customer. Mac was someone who could create a technically strong design, and present it to senior executives at a customer level. I would gladly work with him on my team again."
+    }
+  ]
+}
